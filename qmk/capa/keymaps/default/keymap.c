@@ -3,8 +3,6 @@
 
 #include QMK_KEYBOARD_H
 #include "quantum.h"
-#include "analog.h"
-#include "print.h"
 #include "capacitive.h"
 
 #define PIN_LEFT	GP27

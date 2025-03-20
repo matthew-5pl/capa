@@ -2,8 +2,6 @@
 
 #include QMK_KEYBOARD_H
 #include "quantum.h"
-#include "analog.h"
-#include "print.h"
 
 #define SAMPLES 5
 #define TIMEOUT 10000
