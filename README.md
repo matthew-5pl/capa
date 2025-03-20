@@ -26,7 +26,7 @@ this keypad is handwired, so there's no PCB. these are the components you'll nee
 you'll need to solder a wire and a resistor for each of the sensing plates, tying the other ends of the resistors together and connecting them to a ground pin on the microcontroller.  
 then connect the wires you soldered to the plates to pins `GP27` and `GP26` for the left and right plates respectively.  
 
-finally, solder four wires to your microcontroller's USB pins to the USB-C breakout board, push it into the case's dedicated slot and glue it in place.  
+finally, solder four wires from your microcontroller's USB pins to the USB-C breakout board, push it into the case's dedicated slot and glue it in place.  
 
 the case design is very generic, there's just holes to solder resistors and wires to the sensing plates, and there are no screws yet, so sadly you'll have to glue the keypad shut.  
 you can still access the bootloader when the case is glued together by holding the left key and plugging the keypad into your computer.
