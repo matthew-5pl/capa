@@ -1,0 +1,9 @@
+{
+    "name": "capa",
+    "vendorId": "FEED",
+    "productId": "0001",
+    "matrix": { "rows": 1, "cols": 2 },
+    "layouts": {
+        "keymap": [["0,0", "0,1"]]
+    }
+}
