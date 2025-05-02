@@ -41,7 +41,7 @@ cd $qmk_folder
 
 echo "Compiling firmware for ${qmk_folder}/keyboards/capa..."
 
-qmk compile -kb capa -km v2
+qmk compile -kb capa -km default
 
 if [ $? != 0  ]
 then
